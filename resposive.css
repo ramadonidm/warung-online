@@ -1,0 +1,26 @@
+@media (max-width: 900px){
+    
+    .menu{
+    } 
+
+    .menu-makanan div{
+        width: 100%;
+    }
+
+    .content{
+        flex-direction: column;
+    }
+
+    .content-kiri{
+        border-right: none;
+    }
+    
+}
+
+@media (max-width: 1280px){
+    .content-kanan{
+    }
+
+    
+}
+
